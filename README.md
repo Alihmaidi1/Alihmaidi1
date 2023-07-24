@@ -10,12 +10,12 @@
 
 
 
-- 🌱 I’m currently learning **Nodejs ,Laravel And more ...😁🔥**
+- 🌱 I’m currently learning **C#,Asp.NET ,Laravel And more ...😁🔥**
 
-- 💬 Ask me about **Laravel ,nodejs,typescript,nestjs,and server and more 🌚**
+- 💬 Ask me about **Laravel,ASP.NET,and server and more 🌚**
 
 - 📫 How to reach me **Alihmaidi095@gmail.com**
-- 🤝 I’m Can help You with **back end**
+- 🤝 I’m Can help You with **Back-End**
 - ⚡ Fun fact **I am happy😁🔥**
 
 
